@@ -1,1 +1,1 @@
-Implementing a blockchain in python+numpy
+Implementing a blockchain in python
